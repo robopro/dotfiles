@@ -13,6 +13,8 @@
     "Package Control",
     "SCSS",
     "SublimeLinter",
-    "SublimeLinter-rubocop"
+    "SublimeLinter-rubocop",
+    "BracketHighlighter",
+    "Color Highlight"
   ]
 }
